@@ -90,3 +90,4 @@ return {
 [2]: https://github.com/tpope/vim-dadbod?utm_source=chatgpt.com "GitHub - tpope/vim-dadbod: dadbod.vim: Modern database interface for Vim"
 [3]: https://readmedium.com/vim-neovim-managing-databases-d253faf4a0cd?utm_source=chatgpt.com "Vim/Neovim — Managing Databases"
 
+--
